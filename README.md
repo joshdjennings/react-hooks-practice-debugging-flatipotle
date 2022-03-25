@@ -16,6 +16,7 @@ broken. It's now your job to try to find all the bugs and fix the app!
 
 1. A user should be able to see an order form with options for protein,
    fillings, toppings, and sides.
+   -Done
 
 2. A user should be able to select as many proteins, fillings, toppings, and
    sides as they desire.
